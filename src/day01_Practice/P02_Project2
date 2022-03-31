@@ -1,1 +1,9 @@
 //This is my second project
+
+package day01_Practice;
+
+public class P02_Project2 {
+
+   public static void main(String[] args) { 
+   System.out.println("Hello world");
+   }}
